@@ -1,4 +1,3 @@
 # cv
-Just a basic html code to develop a cv.
-linked two pages and has a mailto option when clicked on the email it redirects to the mail.
+This CV is built using HTML . I have used the inline css in this project.
 https://prathap139.github.io/L1_cv/
